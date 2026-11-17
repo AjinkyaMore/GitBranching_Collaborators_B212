@@ -9,4 +9,9 @@ public class Calculator {
 	public void sub(int a, int b) {
 		System.out.println("Subtraction is : " +(a-b));
 	}
+	
+	public void multi (int a, int b) {
+		System.out.println( "Multiplication : "+a*b);
+		
+	}
 }
